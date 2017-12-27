@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="Stranger Things">fad5036937d3c700c26586f643990e0d</menu>
+        <name>Stranger Things</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_stranger_thi</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_stranger_thi</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>john.diego@snc</sys_created_by>
+        <sys_created_on>2017-12-27 21:53:15</sys_created_on>
+        <sys_id>fad5c72937d3c700c26586f643990e7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.diego@snc</sys_updated_by>
+        <sys_updated_on>2017-12-27 21:53:15</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_snc_stranger_thi.user" name="x_snc_stranger_thi.user">36d5036937d3c700c26586f643990e0e</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
